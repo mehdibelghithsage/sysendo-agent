@@ -1,0 +1,14 @@
+# Ne jamais envoyer la clé API sur GitHub !
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Divers
+.DS_Store
+*.log
